@@ -9,3 +9,5 @@ Export an environment variable in PowerShell
 
 then add this exported environment variable to the application properties:
 * **spring.ai.openai.api-key=${OPENAI_API_KEY}**
+
+OR goto RUN Configurations in IntelliJ Idea and add OPENAI_API_KEY environment variable. 
